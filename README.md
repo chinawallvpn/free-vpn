@@ -353,7 +353,7 @@ VPN Gate的限制：
 
 如果你使用VPN的主要目的是翻墙，或者无法忍受纯免费VPN的各种限制和恼人的弹窗广告，不妨尝试那些提供免费试用的付费VPN。下面推荐的三款付费VPN都支持免费试用，在中国翻墙表现稳定，连接速度快，兼容性强，操作简单，并且提供24小时在线客服。此外，它们还承诺30天无理由退款，也就是说可以免费试用30天。
 
-### 1，首选：<a href="https://wallvpn.com/go/expressvpn/">ExpressVPN</a>：翻墙最稳定，速度业内最快，30天免费试用
+### 一、<a href="https://wallvpn.com/go/expressvpn/">ExpressVPN</a>：翻墙稳定且速度快，30天免费试用
  
 ExpressVPN是一款全球知名的VPN软件，自2009年上线以来，凭借出色的速度和稳定的连接赢得了大量用户的认可。它在全球105个国家部署了超过3,000台服务器，无论你身处何地，都能轻松找到高速节点。依托自主研发的Lightway协议，ExpressVPN在速度和安全性方面表现尤为突出。无论是网页浏览、观看流媒体，还是下载或匿名上网，ExpressVPN都能带来流畅的体验。
 
@@ -367,7 +367,7 @@ ExpressVPN支持Netflix、Hulu、BBC iPlayer等主流流媒体平台的解锁，
 
 ****
 
-### 2，备选：<a href="https://wallvpn.com/go/strong-vpn/">StrongVPN</a>：老牌VPN，对中国用户比较友好，30天免费试用
+### 二、<a href="https://wallvpn.com/go/strong-vpn/">StrongVPN</a>：对中国用户比较友好，30天免费试用
  
 StrongVPN成立于2005年，总部位于美国，是市面上为数不多的老牌VPN服务商之一。经过多年的发展，StrongVPN在全球30多个国家和55个城市部署了约950台服务器，能够为用户提供稳定且快速的网络连接。不论是日常上网还是观看流媒体，StrongVPN都能满足大多数用户的需求。
 
@@ -381,7 +381,7 @@ StrongVPN成立于2005年，总部位于美国，是市面上为数不多的老�
 
 ****
 
-### 3，替补：<a href="https://wallvpn.com/go/purevpn/">PureVPN</a>：安全好用，提供专用IP地址，31天免费试用
+### 三、<a href="https://wallvpn.com/go/purevpn/">PureVPN</a>：安全好用，提供专用IP地址，31天免费试用
  
 PureVPN成立于2007年，也是一款非常受欢迎的VPN软件。它的服务器覆盖范围很广，全球78个国家共有6500多台服务器。无论是想访问被封锁的网站，还是想保护自己的隐私，PureVPN都能帮上忙。
 
