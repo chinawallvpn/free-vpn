@@ -336,33 +336,33 @@ TunnelBear的缺点：
     <tbody>
       <tr>
         <td align="center"><b>数据流量与网速</b></td>
-        <td align="center">每月有严格的数据配额（如2GB至10GB），<br>网络高峰期容易拥堵限速，无法流畅观看视频。</td>
-        <td align="center">真正不限流量与带宽，底层通常配备千兆甚至<br>万兆高速网络接口，支持无缓冲观看4K超清视频。</td>
+        <td align="center">每月有严格的数据配额（2GB至10GB），网络高峰期容易拥堵限速，无法流畅观看视频</td>
+        <td align="center">真正不限流量与带宽，底层通常配备千兆甚至万兆高速网络接口，支持无缓冲观看4K超清视频</td>
       </tr>
       <tr>
         <td align="center"><b>服务器节点选择</b></td>
-        <td align="center">通常只开放3到10个热门国家的少量基础节点，<br>用户无权手动筛选优质线路。</td>
-        <td align="center">节点覆盖全球60到100多个国家和地区，部署<br>数千台专属物理服务器，可精准定位到特定城市。</td>
+        <td align="center">通常只开放3到10个热门国家的少量基础节点，用户无权手动筛选优质线路</td>
+        <td align="center">节点覆盖全球60到100多个国家，部署数千台专属物理服务器，可精准定位到特定城市。</td>
       </tr>
       <tr>
-        <td align="center"><b>中国大陆翻墙能力</b></td>
-        <td align="center">缺乏针对防火长城的专属流量混淆技术，敏感<br>时期容易被全面封锁，连接成功率普遍偏低。</td>
-        <td align="center">搭载顶级抗封锁协议（如伪装模式、无边界模式），<br>节点IP库庞大且更新频繁，全天候稳定穿墙。</td>
+        <td align="center"><b>大陆翻墙能力</b></td>
+        <td align="center">缺乏针对防火长城的专属流量混淆技术，敏感时期容易被全面封锁，连接成功率低。</td>
+        <td align="center">搭载顶级抗封锁协议，节点IP库庞大且更新频繁，全天候稳定穿墙。</td>
       </tr>
       <tr>
-        <td align="center"><b>流媒体解锁与P2P</b></td>
-        <td align="center">免费IP通常被Netflix、Disney+等平台拉黑，无法<br>跨区追剧，且大多严格禁止BT种子下载。</td>
-        <td align="center">轻松绕过版权地理限制，稳定解锁全球主流<br>流媒体原生内容，并设有专属的P2P高速下载节点。</td>
+        <td align="center"><b>流媒体解锁</b></td>
+        <td align="center">免费IP通常被Netflix、Disney+等平台拉黑，无法跨区追剧，且严格禁止BT种子下载。</td>
+        <td align="center">轻松绕过版权地理限制，稳定解锁全球流媒体原生内容，并设有专属的P2P高速下载节点。</td>
       </tr>
       <tr>
         <td align="center"><b>安全与隐私保护</b></td>
-        <td align="center">功能往往被阉割，部分不良软件会植入弹窗广告，<br>甚至收集用户的匿名连接日志用于商业盈利。</td>
-        <td align="center">采用AES-256军用级加密，标配断网急救开关，<br>定期接受权威第三方独立审计，严格遵守无日志政策。</td>
+        <td align="center">功能往往被阉割，部分不良软件会植入弹窗广告，甚至收集用户的连接日志用于商业盈利。</td>
+        <td align="center">采用AES-256军用级加密，标配断网急救开关，严格遵守无日志政策。</td>
       </tr>
       <tr>
-        <td align="center"><b>多设备与客户服务</b></td>
-        <td align="center">账号通常仅限单台设备在线，遇到连接故障时<br>只能查看官方文档，几乎没有人工客服支持。</td>
-        <td align="center">一个账号支持多台甚至无限台设备同时在线，<br>提供全天候24小时真人在线客服，并享有退款保证。</td>
+        <td align="center"><b>客户服务</b></td>
+        <td align="center">账号通常仅限单台设备在线，遇到连接故障时只能查看官方文档，没有人工客服支持。</td>
+        <td align="center">一个账号支持多台设备同时在线，提供全天候24小时真人在线客服，并享有退款保证。</td>
       </tr>
     </tbody>
   </table>
