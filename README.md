@@ -122,6 +122,8 @@ OK，只要合理利用“30天退款保证”这个规则，你完全可以一�
 
 虽然StrongVPN并没有提供阉割版的永久免费套餐，但官方明确承诺提供30天无理由退款服务。这就意味着，你可以利用这30天的时间把它当成高级免费版来使用。在使用过程中，它配备了24小时全天候的在线真人客服，遇到任何连接问题都能随时获得专业指导。你只需在30天退款期即将结束前向客服申请全额退款，垫付的资金就可以原路退回你的账户。
 
+****
+
 ### 2、<a href="https://wallvpn.com/go/purevpn/">PureVPN：31天免费试用</a>
 
 ![免费VPN-PureVPN：31天免费试用](https://raw.githubusercontent.com/chinawallvpn/free-vpn/refs/heads/main/image/%E5%85%8D%E8%B4%B9VPN-PureVPN.png)
@@ -133,6 +135,8 @@ OK，只要合理利用“30天退款保证”这个规则，你完全可以一�
 针对中国大陆的网络环境，PureVPN的穿墙表现属于中上水平，综合体验略逊色于StrongVPN。虽然在每年网络审查最严格的敏感时期可能会遇到短暂的连接波动，但你随时可以联系它的24小时在线客服，索取中国区专用的手动配置文件和特定服务器IP来迅速恢复网络。此外，PureVPN的一个账号最多允许10台设备同时在线连接，完美满足了拥有手机、电脑、平板等多台设备的用户，或是全家人共享使用的需求。
 
 如果你是对网络延迟要求很高的外服游戏玩家，或者是从事跨国电商运营的工作者，PureVPN还提供了端口转发(Port Forwarding)和个人独享IP等高级附加功能。虽然这些属于额外付费的定制项目，但对于有专业网络需求的人来说，这些功能绝对是大幅提升生产力的实用工具。
+
+****
 
 ### 3、<a href="https://wallvpn.com/go/surfsharkvpn/">Surfshark：30天免费试用</a>
 
@@ -174,6 +178,8 @@ PrivadoVPN的缺点：
 * 10GB额度用完后，低速模式下的网速会明显下降，基本只能维持文字浏览。
 * 免费节点的解锁能力有限，无法观看Netflix、Hulu等主流流媒体平台的视频。
 
+****
+
 ### 2、ProtonVPN：真正不限流量，出自顶尖安全团队之手
 
 ![免费VPN-ProtonVPN：真正不限流量，出自顶尖安全团队之手](https://raw.githubusercontent.com/chinawallvpn/free-vpn/refs/heads/main/image/%E5%85%8D%E8%B4%B9VPN-ProtonVPN.png)
@@ -200,6 +206,8 @@ ProtonVPN的缺点：
 * 免费服务器长期处于高负载状态，高峰时段的网速往往比较缓慢。
 * 免费版功能受限，不支持BT种子下载，也无法解锁流媒体平台。
 * 免费账号仅限单台设备在线，无法满足手机和电脑同时翻墙的需求。
+
+****
 
 ### 3、Hotspot Shield：每天500MB流量，老牌美系工具
 
@@ -229,6 +237,8 @@ Hotspot Shield的缺点：
 * 隐私条款不够严谨，会收集部分连接日志用于商业投放。
 * 穿墙能力很弱，在中国大陆地区几乎处于瘫痪状态。
 
+****
+
 ### 4、Windscribe：支持无限设备，可完全匿名注册
 
 ![免费VPN-Windscribe：支持无限设备，可完全匿名注册](https://raw.githubusercontent.com/chinawallvpn/free-vpn/refs/heads/main/image/%E5%85%8D%E8%B4%B9VPN-Windscribe.png)
@@ -254,6 +264,8 @@ Windscribe的缺点：
 * 免费版无法跨区解锁Netflix等主流流媒体平台。
 * 公司总部位于加拿大，处于“五眼联盟”的数据监控范围内。
 
+****
+
 ### 5、Hide.me：真正零广告的良心之选，罕见支持P2P下载
 
 ![免费VPN-Hide.me：真正零广告的良心之选，罕见支持P2P下载](https://raw.githubusercontent.com/chinawallvpn/free-vpn/refs/heads/main/image/%E5%85%8D%E8%B4%B9VPN-Hide.me.png)
@@ -277,6 +289,8 @@ Hide.me的缺点：
 * 每月10GB的流量上限，无法满足重度视频观看者的需求。
 * 免费服务器在网络拥堵的高峰时段会受到明显的限速影响。
 * 免费节点的解锁能力有限，无法观看Netflix等主流流媒体平台的视频。
+
+****
 
 ### 6、TunnelBear：背靠安全巨头，每年公开第三方审计报告
 
